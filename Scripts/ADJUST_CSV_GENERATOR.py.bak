@@ -1,8 +1,4 @@
-""" Esse script lê um CSV que esteja em um formato:
-'CNPJ','VALUE','SCHEDULE_DATE',ADJUST_TYPE' e cria
-um arquivo de ajuste para o lojista
-
-"""
+#Scripts que lê os CSVs e transforma em um arquivo de ajuste
 import datetime as dt
 import os
 import csv

@@ -1,4 +1,7 @@
-#Esse código tem o propósito de formatar os ajustes diretamente em arquivos
+"""Esse código tem o propósito de formatar os
+ajustes diretamente em arquivos, no caso, ele foi
+desenvolvido como caso de estudo e tem de ser utilizado
+do terminal, porém, pode ser adaptado."""
 import sys
 import os
 import shutil as sh
